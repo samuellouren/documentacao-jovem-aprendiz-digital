@@ -3,7 +3,7 @@
 Documentação de UX/IHC do projeto **Jovem Aprendiz Digital**, plataforma de aprendizado de tecnologia básica para jovens aprendizes de Maceió (disciplina de Interação Humano-Computador).
 
 - **Sistema no ar:** https://jovem-aprendiz-digital.onrender.com/
-- **Site da documentação:** `index.html` (página única, com imagens embutidas)
+- **Documentação online:** https://documentacao-jovem-aprendiz-digital.vercel.app/
 
 ## Conteúdo
 
